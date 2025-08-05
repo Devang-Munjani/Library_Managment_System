@@ -20,7 +20,7 @@ This project demonstrates the implementation of a Library Management System usin
 ### 1. Database Setup
 ![ERD](ERD-Diagram.png)
 
-- **Database Creation**: Created a database named `library_db`.
+
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
 
 ```sql
@@ -545,6 +545,7 @@ SELECT * FROM overdue_books_with_fines;
 ## Conclusion
 
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+
 
 
 
